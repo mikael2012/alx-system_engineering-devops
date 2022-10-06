@@ -1,1 +1,1 @@
-This here is an executuble file for the basic shell operation commands
+The contents of this here repository are executuble files for the basic Shell, permissions.
