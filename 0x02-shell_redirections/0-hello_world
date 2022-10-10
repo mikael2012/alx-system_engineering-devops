@@ -1,2 +1,2 @@
 #!bin/bash
-cat kotet
+echo “Hello, World”
