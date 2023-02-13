@@ -1,1 +1,0 @@
-This is a lesson on 0x02-shell_redirections
